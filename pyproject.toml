@@ -35,10 +35,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/p120ph37/term-windows"
-Documentation = "https://github.com/p120ph37/term-windows#readme"
-Repository = "https://github.com/p120ph37/term-windows"
-Issues = "https://github.com/p120ph37/term-windows/issues"
+Homepage = "https://github.com/aaronmeriwether/term-windows"
+Documentation = "https://github.com/aaronmeriwether/term-windows#readme"
+Repository = "https://github.com/aaronmeriwether/term-windows"
+Issues = "https://github.com/aaronmeriwether/term-windows/issues"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

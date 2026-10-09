@@ -5,13 +5,13 @@ A lightweight Python library for creating terminal-based windowed UIs using [Ble
 ## Installation
 
 ```bash
-pip install git+https://github.com/p120ph37/term-windows.git
+pip install git+https://github.com/aaronmeriwether/term-windows.git
 ```
 
 Or with `uv`:
 
 ```bash
-uv add "term-windows @ git+https://github.com/p120ph37/term-windows.git"
+uv add "term-windows @ git+https://github.com/aaronmeriwether/term-windows.git"
 ```
 
 ## Quick Start
@@ -491,4 +491,4 @@ MIT License
 
 ## Contributing
 
-Contributions welcome! Open an issue or submit a pull request at [github.com/p120ph37/term-windows](https://github.com/p120ph37/term-windows).
+Contributions welcome! Open an issue or submit a pull request at [github.com/aaronmeriwether/term-windows](https://github.com/aaronmeriwether/term-windows).
